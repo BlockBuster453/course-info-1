@@ -35,11 +35,13 @@ This is a tentative schedule and will be subject to changes.
 | 8 | 1 | HTTP | [slides](slides/HTTP.pdf), [examples](examples/python/http), [exercises](exercises/python/http), [solutions](solutions/python/http), [video](https://stavanger.instructuremedia.com/embed/5c77c0c9-1bce-4704-ad97-9da5d0ab4e75) |
 | 8 | 2 | Flask Part I. (requests) | [slides](slides/Flask-p1.pdf), [examples](examples/python/flask), [exercises](exercises/python/flask1), [solutions](solutions/python/flask1), [video](https://stavanger.instructuremedia.com/embed/c32dbb63-1440-4930-91dc-8e279136da99) |
 | 9 | 1 | Flask Part II. (templates) | [slides](slides/Flask-p2.pdf), [examples](examples/python/flask), [exercises](exercises/python/flask2), [solutions](solutions/python/flask2), [video](https://stavanger.instructuremedia.com/embed/a50ed9d7-b561-44ce-ad89-c99e36a4862c) |
-| 9 | 2 | Flask Part III. (database handling) | [slides](slides/Flask-p3.pdf), [examples](examples/python/flask), [exercises](exercises/python/flask3), [solutions](solutions/python/flask3) |
+| 9 | 2 | Flask Part III. (database handling) | [slides](slides/Flask-p3.pdf), [examples](examples/python/flask), [exercises](exercises/python/flask3), [solutions](solutions/python/flask3), [video](https://stavanger.instructuremedia.com/embed/ed2ef4b9-157a-4059-893b-2937a2ca72b5) |
 | 10 | 0 | No lectures |  |
-| 11 | 1 | AJAX |  |
-| 11 | 2 | AJAX & Vue |  |
-| 12 | 1 | Flask Part IV. (cookies & session) |  |
+| 10 | 1 | JS Async | [slides](slides/JS-async.pdf), [examples](examples/async/js), [exercises](exercises/async/js), [solutions](solutions/async/js), [video](https://stavanger.instructuremedia.com/embed/e50650ad-aad6-4794-a59e-d0ac40243ce9) |
+| 11 | 1 | AJAX | [slides](slides/AJAX.pdf), [examples](examples/ajax), [exercises](exercises/ajax), [solutions](solutions/ajax), [video](https://stavanger.instructuremedia.com/embed/caf8d83c-7aff-4c74-9ea2-3599cae0c6f4) |
+| 11 | 2 | AJAX & Vue | [slides](slides/AJAX+Vue.pdf), [examples](examples/ajax/vue), [exercises](exercises/ajax/vue), [solutions](solutions/ajax/vue), preliminary:[video](https://stavanger.instructuremedia.com/embed/325a2b97-9dcd-4dc5-8ef0-920436216e62) |
+| 12 | 1 | RESTfull APIs | [slides](slides/REST-API.pdf), [example](examples/ajax/vue), [exercises](exercises/ajax/rest), [solutions](solutions/ajax/rest) |
+| 12 | 2 | Flask Part IV. (cookies & session) |  |
 | 13 | 0 | Easter |  |
 | 14 | 1 | Web APIs |  |
 | 15 | 1 | TBA |  |
