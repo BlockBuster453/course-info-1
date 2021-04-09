@@ -1,5 +1,5 @@
 let app = Vue.createApp({
-    data: function(){
+    data: function(){ 
         return {
             playlist: [],
             loading: true
